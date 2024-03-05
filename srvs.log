@@ -1,0 +1,199 @@
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Process stopped by the user.
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8e6b6e010>: Failed to establish a new connection: [Errno 111] Connection refused')': /?wait_end_of_query=1
+WARNING:clickhouse_connect.driver.httpclient:Unexpected Http Driver Exception
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: 'HttpClient' object has no attribute 'execute'
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: 'HttpClient' object has no attribute 'execute'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: 'HttpClient' object has no attribute 'execute'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: 'HttpClient' object has no attribute 'execute'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: 'HttpClient' object has no attribute 'execute'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: 'HttpClient' object has no attribute 'execute'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: 'HttpClient' object has no attribute 'execute'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: 'HttpClient' object has no attribute 'execute'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: 'HttpClient' object has no attribute 'execute'
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+ERROR:__main__:Error processing data: cannot access local variable 'result_data' where it is not associated with a value
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:__main__:Error processing data: 'str' object has no attribute 'status_code'
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:__main__:Error processing data: 'str' object has no attribute 'status_code'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:__main__:Error processing data: 'str' object has no attribute 'status_code'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:__main__:Error processing data: 'str' object has no attribute 'status_code'
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:utils.retry:Attempt 1 failed with error: 422 Client Error: Unprocessable Entity for url: https://pastebin.com/api/api_post.php
+ERROR:utils.retry:Attempt 2 failed with error: 422 Client Error: Unprocessable Entity for url: https://pastebin.com/api/api_post.php
+ERROR:utils.retry:Attempt 3 failed with error: 422 Client Error: Unprocessable Entity for url: https://pastebin.com/api/api_post.php
+ERROR:__main__:Error processing data: Maximum retry attempts reached
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:utils.retry:Attempt 1 failed with error: 422 Client Error: Unprocessable Entity for url: https://pastebin.com/api/api_post.php
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:utils.retry:Attempt 1 failed with error: 422 Client Error: Unprocessable Entity for url: https://pastebin.com/api/api_post.php
+ERROR:utils.retry:Attempt 2 failed with error: 422 Client Error: Unprocessable Entity for url: https://pastebin.com/api/api_post.php
+ERROR:utils.retry:Attempt 3 failed with error: 422 Client Error: Unprocessable Entity for url: https://pastebin.com/api/api_post.php
+ERROR:__main__:Error processing data: Maximum retry attempts reached
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:utils.retry:Attempt 1 failed with error: 422 Client Error: Unprocessable Entity for url: https://pastebin.com/api/api_post.php
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:__main__:Error processing data: 'str' object has no attribute 'status_code'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+ERROR:__main__:Error processing data: 'str' object has no attribute 'status_code'
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: https://pastebin.com/2AwH9TRT
+ERROR:__main__:Error processing data: 'str' object has no attribute 'status_code'
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: https://pastebin.com/hkqgRE0N
+ERROR:__main__:Error processing data: 'str' object has no attribute 'status_code'
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+ERROR:__main__:Error processing data: 'NoneType' object has no attribute 'status_code'
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: None
+INFO:__main__:Process stopped by the user.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: https://pastebin.com/Fsr0jJ3H
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: https://pastebin.com/faLDUV3B
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:__main__:Received data: {'ipv4': '192.168.1.146', 'mac': '74:40:be:a5:3f:68'}
+INFO:__main__:Query result: [('user',)]
+INFO:__main__:Pastebin URL: https://pastebin.com/jExv10eG
